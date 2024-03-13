@@ -18,3 +18,4 @@ four = Create()
 #виводимо на екран лічільник
 print("Counter = ",Create.counter)
 Create.Show()
+print("Show")
