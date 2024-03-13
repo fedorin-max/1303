@@ -13,8 +13,6 @@ class Create:
 #створили 3 екземпляра класа
 first = Create()
 second = Create()
-third = Create()
-four = Create()
 #виводимо на екран лічільник
 print("Counter = ",Create.counter)
 Create.Show()
